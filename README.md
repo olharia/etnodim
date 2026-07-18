@@ -1,30 +1,48 @@
-# Frontend Beginning
+# E-commerce Web Layout: Etnodim Online Store
 
-## Курсовий проект
+This repository contains a responsive, semantic frontend layout for the **Etnodim** online store, developed as a Capstone project for the *Frontend Beginning* course at Projector Online Institute.
 
-E-commerce, онлайн-магазин Etnodim.
+## 🔗 Quick Links
+* **Live Demo:** [Deploy Link Here — e.g., https://your-username.github.io/repository-name/]
+* **Figma Design Layouts:** [Link to Figma Layout Here]
 
-### Дизайн-макети знаходяться [тут](https://www.figma.com/file/ZL7zIjxobN5ZKOloS3KpT8/Kuzmenko-Anna-%2F-ETNODIM-(FE-beg-course-project)?type=design&node-id=274-1211&mode=design&t=FNAbfC54hB1uYG33-0):
+---
 
-**Завдання:** зробити розмітку сторінок по важливості. Пріоритетність сторінок:
+## 🎯 Project Objective & Scope
+The main goal of the project was to develop a high-fidelity semantic layout for key e-commerce pages based on a provided third-party design template. Development priorities were structured around critical user flows:
 
-1. Каталог - ***обов’язково***
-2. Сторінка товара – ***обов’язково***
-3. Корзина – по можливості
+* **Catalog Page (`catalog.html`)** — Core requirement *(Mandatory)*
+* **Product Page (`product.html`)** — Core requirement *(Mandatory)*
+* **Shopping Cart** — Secondary priority *(Optional / Stretch goal)*
 
-**Вимоги до дизайну:**
-Макет не фіксованої ширини, тобто тянеться на весь екран, мобільна версія промальована, але потрібно зробити responsive design, тобто на планшетах і взагалі на будь-яких розмірах екранів все повинно гарно виглядати (тобто нічого нікуди не пливе і не вилазить).
-На всі речі, які десь зʼявляються чи відкриваються, протрібно зробити окрему html сторінку, на якій це продемонстровано, тобто прописаний правильний клас відкритого стану і тд.
+---
 
-Всі технології і техніки можна використовувати на свій розсуд.
+## 🛠️ Technical & Design Requirements Covered
 
-**Шрифти:** Raleway, Dela Gothic One.
+* **Responsive & Fluid Layout:** Implemented a non-fixed, fluid layout that scales seamlessly across all screen resolutions. While only desktop and mobile designs were originally provided, I engineered a fully responsive middle-ground to ensure the layout remains robust and visually polished on tablets and all intermediate breakpoints.
+* **Component-Driven States:** Designed and structured dedicated HTML classes/structures for dynamic, hidden, or interactive UI elements (such as modals, popups, and dropdowns) to accurately demonstrate their active/opened states.
+* **CSS Architecture (`style.css`):** Focused heavily on building reusable CSS utility classes across different layout blocks to maintain a clean, dry (Don't Repeat Yourself), and scalable stylesheet architecture.
+* **Semantic HTML5:** Ensured strict adherence to modern layout standards, including logical document organization, proper sectioning tags, and mandatory SEO metadata (`<meta>` tags).
+* **Asset & Font Management:** Structured the project directory cleanly using dedicated folders (`/images` and `/fonts`). Handled local font embedding via `@font-face` for specific project typography: *Raleway* and *Dela Gothic One*.
+* **Pixel Perfection:** Aimed for maximum visual fidelity to ensure the final coded output precisely matches the layout guidelines, alignment grids, and spacing proportions.
 
-- Врахувати структуру HTML.
-- Додати всі необхідні метатеги.
-- Для сторінки каталога потрібно зробити `catalog.html`, для сторінки товару – `product.html`
-- Стилі мають бути у файлі `style.css`
-- Зображення потрібно складати у папочку images
-- Результат повинен максимально відповідати макету
-- Звернути увагу на повторення стилю елементів в різних блоках 
-- Підключити шрифт з файлів, файли шрифтів знаходяться в архіві в './fonts/'
+---
+
+## 💻 Tech Stack
+* **HTML5** (Semantic tags, SEO Meta tags)
+* **CSS3** (Flexbox, Grid, Responsive Media Queries)
+* **Directory Structure:**
+  ```text
+  ├── /fonts           # Local web fonts (Raleway, Dela Gothic One)
+  ├── /images          # UI assets and product photography
+  ├── README.md
+  ├── cart.html
+  ├── index.html
+  ├── product-no_size.html
+  ├── product.html 
+  └── styles.css
+
+## 👤 Author
+**Olha Riabchenko** <br>
+Junior Design Engineer (UI/UX Background)<br>
+[LinkedIn Profile](https://www.linkedin.com/in/olha-riabchenko-ua/)
