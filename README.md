@@ -3,8 +3,8 @@
 This repository contains a responsive, semantic frontend layout for the **Etnodim** online store, developed as a Capstone project for the *Frontend Beginning* course at Projector Online Institute.
 
 ## 🔗 Quick Links
-* **Live Demo:** [Deploy Link Here — e.g., https://your-username.github.io/repository-name/]
-* **Figma Design Layouts:** [Link to Figma Layout Here]
+* **Live Demo:** [here](https://olharia.github.io/etnodim/)
+* **Figma Design Layouts:** [here](https://www.figma.com/design/ZL7zIjxobN5ZKOloS3KpT8/Kuzmenko-Anna---ETNODIM--FE-beg-course-project-?node-id=274-1211) *(Layouts provided by Projector Online Institute for educational purposes)*
 
 ---
 
@@ -46,3 +46,4 @@ The main goal of the project was to develop a high-fidelity semantic layout for 
 **Olha Riabchenko** <br>
 Junior Design Engineer (UI/UX Background)<br>
 [LinkedIn Profile](https://www.linkedin.com/in/olha-riabchenko-ua/)
+[Behance Profile](https://www.behance.net/olharia)
