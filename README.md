@@ -45,5 +45,5 @@ The main goal of the project was to develop a high-fidelity semantic layout for 
 ## 👤 Author
 **Olha Riabchenko** <br>
 Junior Design Engineer (UI/UX Background)<br>
-[LinkedIn Profile](https://www.linkedin.com/in/olha-riabchenko-ua/)
-[Behance Profile](https://www.behance.net/olharia)
+[LinkedIn Profile](https://www.linkedin.com/in/olha-riabchenko-ua/)<br>
+[Behance Portfolio](https://www.behance.net/olharia)
